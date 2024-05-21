@@ -1,1 +1,1 @@
-# blog.aghny.dev
+# playbook.aghny.dev
